@@ -5,21 +5,43 @@
     
     
     
-    <link>https://LiutKlen.github.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Liutauras Kleniauskas ISf-22/2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 May 2024 19:43:40 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 18:25:18 +0300</lastBuildDate>
     
-	<atom:link href="https://LiutKlen.github.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Paveiksliukas ir code blokas</title>
+      <link>http://localhost:1313/posts/paveiksliukas/</link>
+      <pubDate>Mon, 13 May 2024 18:25:18 +0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/paveiksliukas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+CODE BLOKAS:
+git add . git commit -m &amp;#34;Pirmas pavedimas&amp;#34; git push origin main 
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>Pirmas irasas</title>
-      <link>https://LiutKlen.github.com/posts/pirmas_irasas/</link>
+      <link>http://localhost:1313/posts/pirmas_irasas/</link>
       <pubDate>Thu, 09 May 2024 19:43:40 +0300</pubDate>
       
-      <guid>https://LiutKlen.github.com/posts/pirmas_irasas/</guid>
+      <guid>http://localhost:1313/posts/pirmas_irasas/</guid>
       <description>
         
           
